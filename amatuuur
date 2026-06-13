@@ -1,0 +1,7 @@
+
+git init
+git add .
+git commit -m "feat: site da AMA TUR pronto para produção"
+git branch -M main
+git remote add origin https://github.com/pato77763/amatuur.git
+git push -u origin main
