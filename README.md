@@ -78,3 +78,4 @@ git add .
 - `src/assets/images/`: Pasta contendo todas as imagens enviadas e geradas, incluindo a nova imagem do card de Atrativos Turísticos (`regenerated_image_1781294147849.jpg`).
 - `vercel.json`: Arquivo de configuração específico do Vercel para garantir que rotas e navegações SPA carreguem sem erro 404 durante recarregamentos de página.
 git rm -r --cached .
+git commit -m
