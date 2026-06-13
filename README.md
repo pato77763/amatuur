@@ -79,3 +79,4 @@ git add .
 - `vercel.json`: Arquivo de configuração específico do Vercel para garantir que rotas e navegações SPA carreguem sem erro 404 durante recarregamentos de página.
 git rm -r --cached .
 git commit -m
+git push -u origin main
